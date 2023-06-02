@@ -4,6 +4,7 @@ Start with:
 ```
 pip install -r requirements.txt
 ```
+```
 python profile_scraper.py
-
+```
 
